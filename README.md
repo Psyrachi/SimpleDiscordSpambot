@@ -1,0 +1,2 @@
+# SimpleDiscordSpambot
+A discord spambot
